@@ -57,15 +57,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Rode piste, ik heb vorig jaar alle programmeer vakken gehaald. Aangezien dat vorig jaar is zal ik wel weer even moeten inkomen. De basis kan ik maar ik zal het even omhoog moeten halen in mijn hoofd. Ik ben dus een gemiddelde beginner die nieuwgierig is om meer te leren over programmeren. 
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Responsive, de site is wel responsive wanneer de gebruiker op knoppen of plaatjes drukt leidt dat naar weer een ander scherm. De gebruiker is instaat om te communiceren met de site door middel van sprekende beelden en verschillende pagina's. 
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+
+**Je opdracht:** https://www.stussy.com
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg) 
 
 **Breakdown-schets(en):**
 
