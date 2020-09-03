@@ -70,8 +70,7 @@ https://www.stussy.com
 **Screenshot(s):**
 
 [](images/stussy.png)
-[](images/stussy1.png)
-[](images/stussy2.png)
+
 
 **Breakdown-schets(en):**
 
