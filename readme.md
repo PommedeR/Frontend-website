@@ -66,15 +66,11 @@ De site is wel responsive wanneer de gebruiker op knoppen of plaatjes drukt leid
 
 https://www.stussy.com
 
-**Je focus:** -kies uit responsive óf surface plane-
-
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
-
-
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/stussy.png)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/stussy.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
