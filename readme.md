@@ -69,7 +69,9 @@ https://www.stussy.com
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/stussy.png)
+[](images/stussy.png)
+[](images/stussy1.png)
+[](images/stussy2.png)
 
 **Breakdown-schets(en):**
 
