@@ -56,7 +56,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** 
+Rood, de basis kan ik maar ik zal het even omhoog moeten halen in mijn hoofd. Ik ben dus een gemiddelde beginner die nieuwgierig is om meer te leren over programmeren. 
+
+**Je focus:** 
+De site is wel responsive wanneer de gebruiker op knoppen of plaatjes drukt leidt dat naar weer een ander scherm. De gebruiker is instaat om te communiceren met de site door middel van sprekende beelden en verschillende pagina's. 
+
+**Je opdracht:** 
+
+https://www.stussy.com
 
 **Je focus:** -kies uit responsive óf surface plane-
 
