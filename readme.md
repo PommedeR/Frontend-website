@@ -71,8 +71,10 @@ https://www.stussy.com
 
 ![](images/stussy.png)
 ![](images/stussy1.png)
+![](images/stussy2.png)
 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![](images/breakdown.png)
+![](images/breakdown2.png)
