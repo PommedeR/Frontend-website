@@ -72,7 +72,7 @@ https://www.stussy.com
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/stussy.png)
 
 **Breakdown-schets(en):**
 
