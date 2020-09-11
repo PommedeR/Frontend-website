@@ -1,0 +1,33 @@
+body {
+    font-family: 'Expletus Sans', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content:space-between;
+    list-style:none;
+    font-size: 1em;
+}
+
+.logo {
+    height: 200px;
+    margin: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    
+}
+
+.vrouw {
+    height: 400px;
+    display: inline;
+   
+}
+
+ .newarr{
+    height: 400px;
+   
+}
