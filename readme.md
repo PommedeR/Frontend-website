@@ -40,9 +40,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -Lastig-
 
-![](images/eerstedesignwebs.png)
+![](images/website.png)
 
--screenshot(s) van hoe ver je bent-
+Het zoeken van de het font dat wordt gebruikt op de Stussy site. De huiswerk oefeningen waren ook best lastig maar toen ik eenmaal bezig was lukte het wel. 
+
+-Makkelijk-
+
+![](images/font.PNG)
+Ik was helemaal vergeten dat je natuurlijk in de Inspect kan kijken van een website. Op die manier kan is het super makelijk om het lettertype te achterhalen. 
 
 ### Agenda voor meeting
 
