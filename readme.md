@@ -43,11 +43,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![](images/website.png)
 
 Het zoeken van de het font dat wordt gebruikt op de Stussy site. De huiswerk oefeningen waren ook best lastig maar toen ik eenmaal bezig was lukte het wel. 
+Ik ben gaan stuntelen met positionering en flex box, door de oefeningen is die informatie weer even ververst. 
 
 -Makkelijk-
 
 ![](images/font.PNG)
 Ik was helemaal vergeten dat je natuurlijk in de Inspect kan kijken van een website. Op die manier kan is het super makelijk om het lettertype te achterhalen. 
+Nu weet ik dus welk font er wordt gebruikt en kan ik dat toepassen. 
 
 ### Agenda voor meeting
 
