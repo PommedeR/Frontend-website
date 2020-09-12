@@ -38,9 +38,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Lastig-
 
-**Screenshot(s):**
+![](images/eerstedesignwebs)
 
 -screenshot(s) van hoe ver je bent-
 
