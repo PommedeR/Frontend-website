@@ -40,7 +40,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -Lastig-
 
-![](images/eerstedesignwebs)
+![](eerstedesignwebs.png)
 
 -screenshot(s) van hoe ver je bent-
 
