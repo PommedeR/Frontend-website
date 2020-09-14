@@ -1,0 +1,30 @@
+body {
+    font-family: "Helvetica Neue","Arial",sans-serif;
+    font-size: 
+}
+
+.menu{
+    display: block;
+    align-items: flex-end;
+}
+.links ul {
+    display: flex;
+    justify-content:space-evenly;
+    align-items:flex-end; 
+    list-style:none;
+    font-size: 0.6875rem;
+}
+
+.logo {
+    height: 50px;
+    display: inline;
+    margin-left: 1em;
+}
+
+.fotoVrouw {
+    height: 20em;
+    display: flex;
+    justify-content: center;
+    list-style:none;
+}
+
