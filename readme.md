@@ -55,8 +55,8 @@ Nu weet ik dus welk font er wordt gebruikt en kan ik dat toepassen.
 
 In principe heb ik een website met veel plaatjes en simpele text. Het werkt wel mee dat ik niet een belachelijk lastige site heb uitgekozen. 
 
-![](images/voortgang1.PNG)
-![](images/voortgang2.PNG)
+![](images/voortgangeen.PNG)
+![](images/voortgangtwee.PNG)
 ### Agenda voor meeting
 
 Hoe doe je bewegende beelden in je site? Het is niet echt een video.
