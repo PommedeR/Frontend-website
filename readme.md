@@ -45,15 +45,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Het zoeken van de het font dat wordt gebruikt op de Stussy site. De huiswerk oefeningen waren ook best lastig maar toen ik eenmaal bezig was lukte het wel. 
 Ik ben gaan stuntelen met positionering en flex box, door de oefeningen is die informatie weer even ververst. 
 
+Ik was begonnen met desktop formaat, ik heb het nu aangepast tot mobile. Daardoor moest ik wel weer opnieuw beginnen dus dar nam wel wat tijd inbeslag. 
+
 -Makkelijk-
 
 ![](images/font.PNG)
 Ik was helemaal vergeten dat je natuurlijk in de Inspect kan kijken van een website. Op die manier kan is het super makelijk om het lettertype te achterhalen. 
 Nu weet ik dus welk font er wordt gebruikt en kan ik dat toepassen. 
 
+In principe heb ik een website met veel plaatjes en simpele text. Het werkt wel mee dat ik niet een belachelijk lastige site heb uitgekozen. 
+
+![](images/voortgang1.PNG)
+![](images/voortgang2.PNG)
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Hoe doe je bewegende beelden in je site? Het is niet echt een video.
+Hoeveel pagina's moet je eigenlijk maken?
+Een imange dof maken?
+
 
 ### Verslag van meeting
 
