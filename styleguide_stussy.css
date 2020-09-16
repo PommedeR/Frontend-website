@@ -10,8 +10,10 @@ nav {
     position: absolute;
     height: 30px;
     margin-top: 9px;
-   
+}
 
+a:hover {
+    
 }
 
 .logo {
@@ -57,6 +59,30 @@ h2 {
 
 .man {
     height: 433px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+video {
+    height: 180px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.pet {
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.shirt {
+    height: 396px;
+    margin-top: 20px;
+    margin-left: 4px;
+}
+
+.print {
+    height: 400px;
     margin-top: 20px;
     margin-left: 5px;
 }
