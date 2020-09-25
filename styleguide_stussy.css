@@ -3,33 +3,56 @@ body {
     font-size: 
 }
 
+
 nav {
     position: relative;
 }
+
+
 .menuham {
     position: absolute;
-    height: 30px;
-    margin-top: 9px;
+    height: 3em;
+    margin: 1em;
 }
 
-a:hover {
-    
-}
 
 .logo {
-    position: absolute;
+    display: flex;
+    text-align: center;
     height: 60px;
-    margin-top: -10px;  
-    left: 8em;
 }
+
 
 .zoek {
     position: absolute;
-    height: 23px;
+    height: 2em;
     margin: 15px;
-    left: 14em;
+    align-items: center;
 }
 
+
+@media (min-width: 65em) {.logo {
+    position: absolute;
+    height: 60px;
+    margin-top: -1.5em;  
+    left: 1em;
+    }
+}
+   
+
+@media (min-width: 65em) {.menuham {
+    display: none;
+    }    
+}
+
+
+@media (min-width: 65em) {.zoek {
+    display: none;
+    }
+}
+
+
+/*
 .tas {
     position: absolute;
     height: 20px;
@@ -44,10 +67,17 @@ a:hover {
     margin: 11px;
 }
 
-.vrouw {
-    height: 410px;
-    margin-top: 50px;
-    margin-left: 5px;
+
+*/
+  
+    
+
+
+    
+    
+    
+    
+
 }
 
 h2 {
@@ -57,48 +87,42 @@ h2 {
     text-transform: uppercase; 
 }
 
-.man {
-    height: 433px;
-    margin-top: 20px;
-    margin-left: 5px;
+
+
+
+
+section {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10em;
+    display: flex;
+    justify-content: center;
 }
 
-video {
-    height: 180px;
-    margin-top: 20px;
-    margin-left: 5px;
+img.article {
+    display: flex;
+    position: absolute;
+    height: 700%; 
+    margin-top: 2em; 
 }
 
-.pet {
-    height: 400px;
-    margin-top: 20px;
-    margin-left: 5px;
-}
 
-.shirt {
-    height: 396px;
-    margin-top: 20px;
-    margin-left: 4px;
-}
 
-.print {
-    height: 400px;
-    margin-top: 20px;
-    margin-left: 5px;
-}
-/*
-.menu{
-    display: block;
-    align-items: flex-end;
-}
 .links ul {
+    display: none;
+    }
+
+
+@media (min-width: 65em) {.links ul {
     display: flex;
     justify-content:space-evenly;
     align-items:flex-end; 
     list-style:none;
     font-size: 0.6875rem;
+    margin-top: 2em;
+    }
 }
-*/
 
 
 
