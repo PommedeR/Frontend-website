@@ -1,6 +1,12 @@
 body {
-    font-family: "Helvetica Neue","Arial",sans-serif; 
-
+    font-family: "Helvetica Neue","Arial",sans-serif;
+}
+p {
+    font-family: "Helvetica Neue",sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.7em;
 }
 
 h1 {
@@ -8,7 +14,6 @@ h1 {
 }
 
 nav {
-    position: relative;
     display: flex;
     padding: 1%;
 }
@@ -16,9 +21,8 @@ nav {
 ul {
     list-style: none;
 }
+
 nav ul a {
-    display: block;
-    
     text-decoration: none;
     color: black;
     text-transform: uppercase;
@@ -30,18 +34,60 @@ main {
     font-size: 100%;
 }
 
-button img {
-    width: 100%; 
-    margin: 1%;
-}
-
 button {
     border: none;
-    background-color: white; 
+    background-color: white;  
+    width: 35px; height: 35px;
+}
+
+.menu {
+    background-image: url(images/hamburgermenu.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    z-index: 1;
+}
+
+.menu1 {
+    margin-left: -35px;
+    margin-top: 3em;
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    opacity: 1;
+    z-index: 2;
+}
+
+li {
+    padding: 5%;
+}
+
+.zoek {
+    background-image: url(images/zoekicon.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    margin-left: 60%;
 }
 
 .logo {
-    width: 10%;  
+    position: absolute;
+    align-content: center;
+    margin-top: -3.5em;
+    margin-left: 42%;
+    width: 50px;   
+}
+
+.bag  {
+    background-image: url(images/bagicon.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    position: relative;
+    margin-left: 71%;
+}
+
+.vlag {
+    background-image: url(images/vlagicon.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;  
 }
 
 h2 {
@@ -54,19 +100,50 @@ h2 {
 
 section {
     margin-top: 0%;
-    display: absolute; 
     position: relative;
 }
     
+a {
+    width: 100%;
+    text-decoration: none;
+    color: black;
+ }   
+
 .article {
     width: 100%;
- }    
+}
+
+.artikelen img {
+    width: 140%;
+    margin: 10%;
+    position: relative;
+    
+}
+
+.kledingsection {
+    display: flex;
+    margin: 10%;
+    position: absolute;
+    justify-content: center;
+    grid-column-start: 1fr 1fr;
+    grid-gap: 9em;
+   
+}
+
+.kledingsection1 {
+    display: flex;
+    
+    margin: 10%;
+    position: absolute;
+    justify-content: center;
+    grid-column-start: 1fr 1fr;
+    grid-gap: 9em;
+}
 
 @media (min-width: 40em) {section{
     display: flex;
     position: absolute;
     justify-content: center;
-    align-content: center;
     grid-column-start: 1fr 1fr;
     grid-gap: 2em;
     width: 70%;
@@ -75,7 +152,7 @@ section {
     }
 }
 
-@media (min-width: 40em) {section1{
+@media (min-width: 40em) {.section1{
     position: absolute;
     width: 35%;
     margin: 27%;
@@ -83,7 +160,7 @@ section {
     }
 }
 
-@media (min-width: 40em) {section2{
+@media (min-width: 40em) {.section2{
     display: flex;
     position: absolute;
     grid-column-start: 1fr 1fr;
@@ -101,16 +178,16 @@ section {
     }
 }    
 
-@media (min-width: 65em) {nav .logo {
+@media (min-width: 65em) {.logo {
     position: absolute;
-    height: 80%;
-    width: 8%;
-    margin-top: -3.5% ;  
+    margin-left: 0%;
+    width: 70px;
+    margin-top: -2em;  
     }
 }
    
 
-@media (min-width: 65em) {.hamburger {
+@media (min-width: 65em) {.menu {
     display: none;
     }    
 }
@@ -127,43 +204,24 @@ section {
     }
 }
 
-
-@media (min-width: 65em) {nav ul a {
-    display: none;
-    display: relative;
-    text-transform: uppercase;
-    display: flex;
-    list-style:none;
-    font-size: 0.6875rem;
-    align-items:center;  
-    }
-}
-
-
 @media (min-width: 65em) {.menu1 {
     display: flex;
     justify-content: flex-start;
     align-content: flex-start;
+    margin-top: -1em;
+    margin-left: 1em;
     }
 }
 
-
-@media (min-width: 65em) {.menu2 {
-    display: flex;
-    justify-content: flex-end;
-    align-content: flex-end;
-    }
-}
 @media (min-width: 65em) {li {
     padding: 1em;
     }
 
 
-@media (min-width: 65em) {nav .vlag {
-    width: 50%;
-    display: flex;
+@media (min-width: 65em) {.vlag {
     position: relative;
-    left: 90em;
+    left: 96%;
+    margin-top: -2em;
     }
 }
 
