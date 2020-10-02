@@ -43,8 +43,8 @@ Punten die goed gaan:
 - Joost had mijn site als voorbeeld genomen en helemaal gecodeerd, daarvan heb ik veel codes overgenomen. 
 
 Mijn pagina op dit moment 
-![](images/voortgangweek5)
-![](images/voorgangweek5.1)
+![](images/voortgangweek5.PNG)
+![](images/voorgangweek5.1.PNG)
 
 
 
