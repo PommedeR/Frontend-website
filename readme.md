@@ -30,7 +30,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik ben nu al vijf weken aan het werk aan mijn website en het komt nu eindelijk een beetje together. Ik moet wel zeggen dat ik het erg heb onderschat. 
+
+Punten die ik lastig vind:
+- responsive maken van de website
+- De hoeveelheid huiswerk opdrachten 
+- Flex box
+
+Punten die goed gaan:
+- Ik heb een image resize tool gevonden die goed werk. Het maakt alle images dezelfde grote.
+- De feedback van Kris heeft mij erg geholpen
+- Joost had mijn site als voorbeeld genomen en helemaal gecodeerd, daarvan heb ik veel codes overgenomen. 
+
+Mijn pagina op dit moment 
+![](images/voortgangweek5)
+![](images/voorgangweek5.1)
 
 
 
