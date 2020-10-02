@@ -44,7 +44,7 @@ Punten die goed gaan:
 
 Mijn pagina op dit moment 
 ![](images/voortgang.PNG)
-![](images/voorgangweek5.PNG)
+![](images/voortgangweek5.PNG)
 
 
 
