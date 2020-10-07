@@ -48,24 +48,31 @@ button {
 }
 
 .menu1 {
-    margin-left: -35px;
-    margin-top: 3em;
+    margin-top: 2em;
+    padding-right: 30%;
+    padding-bottom: 100%;
+    padding-top: 3em;
+    background-color: white;
     display: block;
     position: absolute;
     cursor: pointer;
+    transition: .25s;
     opacity: 1;
     z-index: 2;
+    
+    display: none;
 }
 
 li {
-    padding: 5%;
+    padding: 0.5em;
+    margin-left: -3em;
 }
 
 .zoek {
     background-image: url(images/zoekicon.PNG);
     background-repeat: no-repeat;
     background-size: cover;  
-    margin-left: 60%;
+    margin-left: 84%;
 }
 
 .logo {
@@ -77,17 +84,24 @@ li {
 }
 
 .bag  {
+    display: flex;
     background-image: url(images/bagicon.PNG);
     background-repeat: no-repeat;
     background-size: cover;  
-    position: relative;
-    margin-left: 71%;
+    position: absolute;
+    margin-left: 90%;
+    margin-top: -3.5em;
+    
 }
 
 .vlag {
     background-image: url(images/vlagicon.PNG);
     background-repeat: no-repeat;
-    background-size: cover;  
+    background-size: cover;
+    display: flex;
+    margin-left: 96%;
+    margin-top: -3.5em;
+    position: absolute;
 }
 
 h2 {
@@ -114,30 +128,29 @@ a {
 }
 
 .artikelen img {
-    width: 140%;
     margin: 10%;
-    position: relative;
+    position: absolute;
+    width: 15em;
     
 }
 
 .kledingsection {
     display: flex;
-    margin: 10%;
-    position: absolute;
+    flex-wrap: 1;
     justify-content: center;
     grid-column-start: 1fr 1fr;
-    grid-gap: 9em;
-   
+    grid-gap: 1em;
+    
 }
 
 .kledingsection1 {
     display: flex;
-    
-    margin: 10%;
+    flex-wrap: 1;
     position: absolute;
     justify-content: center;
     grid-column-start: 1fr 1fr;
-    grid-gap: 9em;
+    grid-gap: 0em;
+    margin-top: 20em;
 }
 
 @media (min-width: 40em) {section{
@@ -208,20 +221,22 @@ a {
     display: flex;
     justify-content: flex-start;
     align-content: flex-start;
-    margin-top: -1em;
-    margin-left: 1em;
+    margin-top: -5em;
+    margin-left: 4em;
+    background-color: transparent;
+    
     }
 }
 
 @media (min-width: 65em) {li {
-    padding: 1em;
+    padding: 2em;
     }
 
 
 @media (min-width: 65em) {.vlag {
     position: relative;
-    left: 96%;
-    margin-top: -2em;
+    
+    margin-top: -1em;
     }
 }
 
