@@ -1,30 +1,50 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Pomme de Ruiter-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://grid.layoutit.com
+3. CodePen
+4. DLO oefeningen
+5. https://cssreference.io
+6. https://htmlreference.io
+7. https://validator.w3.org/
+8. https://stackoverflow.com
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Ik ben bezig met de footer en de tweede pagina. Op de tweede pagina wordt de kleding laten zien in grids. De grids moeten responsive zijn, van twee artikelen naast elkaar naar drie en uiteindelijk naar vier. Ik moet dat dus met colums en rows gaan regelen. 
 
-**Screenshot(s):**
+![mirror](images/grids.png)
 
--screenshot(s) van je eindresultaat-
+Punten die goed gaan:
+- De navigatie is nu eindelijk klaar, ik moest het vast zetten met fixed.
+- Ik heb Java Script toegevoegd en het werkt.
+
+Punten die ik lastig vind:
+- Grid werkt niet.
+- Footer werkt niet.
+- @media reageert niet meer.
+- JavaScript op de tweede pagina werkt niet.
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Ik ben nu bezig met grid toepassen, helaas werkt het niet. 
+
+Punten die ik lastig vind:
+- Grid
+- @media niet zo werkt als ik wil
+
+Punten die goed gaan:
+- Ik heb het gevoel dat ik flex-box nu wel echt onder de knie krijg.
 
 
 
