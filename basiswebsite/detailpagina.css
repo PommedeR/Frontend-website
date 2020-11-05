@@ -29,7 +29,6 @@ h1 {
 }
 
 
-/*EERSTE PAGINA*/
 header {
     position: fixed;
     background: white; 
@@ -178,29 +177,71 @@ h2 {
     text-transform: uppercase; 
     margin-bottom: 10%;
 }
-
-.article {
-    margin-top: 2em;
-    height: 100%; width: 100%;
-}
-
-section {
-    margin-top: 2em;
-    max-width: 45em;
-}
-    
+ 
 a {
     width: 100%;
     text-decoration: none;
     color: black;
     cursor: pointer;
- }   
+ }  
 
-
-/*TWEEDE PAGINA*/
 figure img {
     width: 90%;
     height: auto;
+}
+
+.more-pictures {
+    display: none;
+}
+
+h4:first-of-type {
+    font-family: "Helvetica Neue",sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.7em;
+    text-align: start;
+    margin-bottom: 4%;
+    margin-left: -3.3em;
+} 
+
+figcaption:first-of-type {
+    margin-top: 0.3em;
+    font-size: 0.8em;
+    font-weight: normal;
+    text-align: start;
+    margin-left: -3em;
+}
+
+.size {
+    position: relative;
+    text-transform: uppercase;
+    margin-left: 0.5%;
+    outline: 1px solid lightgrey; 
+}
+
+.size:active {
+    outline: 1px solid black;
+}
+
+.buy {
+    position: relative;
+    text-transform: uppercase;
+    background: black;
+    color: white;
+    display: block;
+    width: 100%;
+    margin-top: 3%;  
+}
+
+section li {
+    margin-left: -3.5em;
+    padding: 0;
+    text-transform: none;
+    position: relative;
+    color: black;
+    font-size: 0.7em;
+    font-weight: normal;
+    text-align: start;
 }
 
 h3 {
@@ -212,35 +253,38 @@ h3 {
     font-size: 0.7em;
 }
 
-h4 {
+figure img {
+    width: 90%;
+    height: auto;
+}
+
+h4:last-of-type {
     font-family: "Helvetica Neue",sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 0.7em;
     text-align: center;
-    margin-bottom: 0%;
+    margin-bottom: 4%;
+    margin-left: -3.3em;
 } 
 
-figcaption {
+figcaption:last-of-type {
     margin-top: 0.3em;
     font-size: 0.8em;
     font-weight: normal;
     text-align: center;
+    margin-left: -3em;
 }
 
-.snd-page {
+section:nth-of-type(2) {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 figure {
     margin: 10%;
 }
-/*EIND- TWEEDE PAGINA*/
-
-
-
 
 /*FOOTER*/
 footer {
@@ -250,7 +294,8 @@ footer {
     font-size: 0.7em;
     display: flex;
     justify-content: center;
-    height: 25vh;  
+    height: 25vh;
+    margin-top: -50%;
 }
 
 .socialmedia {
@@ -336,12 +381,6 @@ footer h2 {
 /*EIND -FOOTER*/
 
 
-
-
-
-
-
-
 /*40 EM*/
 @media (min-width: 40em) {body {
     position: relative;
@@ -371,45 +410,51 @@ img.logo {
     top:0em;
     }
     
-section:first-of-type {
-    display: flex;
-    position: static;
-    grid-gap: 1.5em;
-    width: 100%; height: 28em;
-    margin: 10%;
-    margin-top: 3em;
+.more-pictures {
+    display: inherit;    
+    }   
+    
+.hats {
+    margin-right: 20em;
+    } 
+    
+.hats h4 {
+    text-align: start;
+    width: 190%;
+    padding-left: 45em;
+    margin-top: -55em;
+    }
+
+.hats figcaption {
+    text-align: start;
+    width: 190%;
+    padding-left: 39.5em;
     }
     
-section:nth-of-type(2) {
-    display: flex;
-    position: static;
-    justify-content: center;
-    width: 23em; height: 30em;
-    margin: 0%;
-    margin-top: 0%;
+ .sizes {
+    margin-left: 34.4em;
+    margin-top: -4em; 
     }
+
+.buy {
+    width: 25%; 
+    margin-left: 41.3em;
+    }  
     
-section:nth-of-type(3) {
-    display: flex;
-    position: static;
-    grid-gap: 1.5em;
-    width: 100%; height: 100%;
-    margin: 0%;
-    margin-top: 10%;
-    }
-
-section:nth-of-type(4) {
-    display: flex;
-    position: static;
-    justify-content: center;
-    width: 23em; height: 30em;
-    margin: 0%;
-    margin-top: 10%;
-    }}    
-/*EIND- 40 EM*/
+main ul {
+    margin-left: 34.4em;    
+    }  
+    
+h3 {
+    margin-top: 30em;    
+    }    
+}
 
 
-/*55 EM*/
+
+
+
+/*55 EM*/    
 @media (min-width: 55em) {.zoek {
     margin-left: 86%;
     margin-top: -55.5em;
@@ -417,46 +462,21 @@ section:nth-of-type(4) {
 
 .bag {
     display: none;
-    }
-
-section:first-of-type {
-    display: flex;
-    grid-gap: 2em;
-    height: 10em; height: 31.5em;
-    margin: 1%;
-    margin-top: 3em;
-    }
-
-section:nth-of-type(2) {
-    display: flex;
-    position: static;
-    justify-content: center;
-    width: 23em; height: 31.5em;
-    margin: 1%;
-    }
-
-section:nth-of-type(3) {
-    display: flex;
-    position: static;
-    grid-gap: 2em;
-    height: 10em; height: 31.5em;
-    margin: 1%;
-    }
-
-section:nth-of-type(4) {
-    display: flex;
-    position: static;
-    justify-content: center;
-    width: 23em; height: 31.5em;
-    margin: 1%;
-    }
+    }    
     
 h2 {
     font-size: 1.5em;
     margin-top: -11em;
-    }}
+    }
 
+section:nth-of-type(2) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}    
 
+}
+    
 /*FOOTER*/
 @media (min-width: 40em) {footer {
     font-family: "Helvetica Neue",sans-serif;
@@ -600,8 +620,9 @@ h2 {
     display: inline-block;
     margin: 8.8em;
     margin-right: 50%;
-    }}
-/*EIND-FOOTER*/
+    }}   
+/*EIND-FOOTER*/    
+
 
 /*65 em*/
 @media (min-width: 65em) {.menu {
@@ -627,36 +648,4 @@ h2 {
  li {
     margin: 2em;
     }}
-/*EIND- 65 em*/
-
-
-    
- 
-/*TWEEDE PAGINA*/ 
-@media (min-width: 40em) {.f-tweedepagina {
-    margin-top: 85em;
-    }}
-
-@media (min-width: 40em) {.snd-page:last-child {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(5, 1fr);	
-    }}
-    
-@media (min-width: 55em) {.snd-page:last-child {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 1fr);	
-    grid-gap: 7em;
-    }
-
-figure {
-    width: 200%;
-    }}
-
-
-
-
-  
-
-
+/*EIND- 65 em*/    
